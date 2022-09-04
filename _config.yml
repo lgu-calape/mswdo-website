@@ -7,6 +7,7 @@ favicon: 'https://calape.ph/icons/favicon-32x32.png'
 baseurl: /
 google_analytics: ''
 disqus: 'mswdo-calape'
+disqus_enable: false
 #mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
