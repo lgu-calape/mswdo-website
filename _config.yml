@@ -3,11 +3,11 @@ name: "MSWDO - Calape"
 title: "MSWDO - Calape"
 description: "Municipal Social Welfare and Development Office"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'https://calape.ph/icons/favicon-32x32.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: ''
+disqus: 'mswdo-calape'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
@@ -63,8 +63,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: "ca-pub-xxx"
+adsense-data-ad-slot: "xxx"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
