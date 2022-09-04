@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paano mapabilang sa Pantawid Pamilyang Pilipino Program"
-author: DSWD
+author: dswd
 categories: [4Ps]
 image: assets/images/299670363_5602815766436317_2384898732071443672_n.jpg
 ---
