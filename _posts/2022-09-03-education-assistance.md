@@ -2,7 +2,7 @@
 layout: post
 title:  "AICS Educational Assistance"
 author: mswdo
-categories: [BawatBuhayMahalagaSaDSWD]
+categories: [mswdo]
 image: assets/images/302194481_118798704274821_5430875207372021541_n.jpg
 featured: true
 hidden: true
